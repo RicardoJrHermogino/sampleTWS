@@ -1,0 +1,37 @@
+{
+  "name": "taskweathersync-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "json-server": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/poppins": "^5.0.13",
+    "@iconify/react": "^4.1.1",
+    "@mui/icons-material": "^5.15.16",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.16",
+    "axios": "^1.7.2",
+    "dayjs": "^1.11.10",
+    "mapbox-gl": "^3.3.0",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "json-server": "^1.0.0-beta.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

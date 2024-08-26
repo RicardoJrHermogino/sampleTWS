@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": "924b",
+      "fullName": "Kenneth D. Fazon",
+      "workType": "Agriculture Industry",
+      "email": "kakar@gmail.com",
+      "password": "kakar"
+    },
+    {
+      "id": "ef09",
+      "fullName": " Ricardo Jr. E. Hermogino",
+      "workType": "Fishing Industry",
+      "email": "ricardohermoginojr@gmail.com",
+      "password": "yesyes"
+    },
+    {
+      "id": "2b5f",
+      "fullName": "Mardy Mae Doria",
+      "workType": "Fishing Industry",
+      "email": "badiday@gmail.com",
+      "password": "dagol"
+    },
+    {
+      "id": "f626",
+      "fullName": "Kris Marthy Denso",
+      "workType": "Construction Industry",
+      "email": "krismarthydenso@gmail.com",
+      "password": "sanaol"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "14b8",
+      "taskName": "Dagol's Schedule",
+      "streetAddress": "Cogon Gubat Sorsogon",
+      "barangay": "asdasd",
+      "city": "asd",
+      "municipality": "asdas",
+      "state": "",
+      "postalCode": "asda",
+      "date": "2024-08-30",
+      "restrictedWeather": "sunny",
+      "environment": "openField",
+      "country": "asdasd",
+      "userId": "ef09"
+    },
+    {
+      "id": "d5ba",
+      "taskName": "Mardy Schedule",
+      "streetAddress": "asfafsas",
+      "barangay": "asdfasdgsdg",
+      "city": "asdasd",
+      "municipality": "asdasdasd",
+      "state": "",
+      "postalCode": "asdasd",
+      "date": "2024-09-03",
+      "restrictedWeather": "sunny",
+      "environment": "mountain",
+      "country": "asdasd",
+      "userId": "2b5f"
+    },
+    {
+      "id": "5789",
+      "taskName": "Dagol's Schdedule 2",
+      "streetAddress": "Santal",
+      "barangay": "Cogon",
+      "city": "Sorsogon",
+      "municipality": "Gubat",
+      "state": "",
+      "postalCode": "4710",
+      "date": "2024-08-30",
+      "restrictedWeather": "sunny",
+      "environment": "sea",
+      "country": "Philippines",
+      "userId": "ef09"
+    },
+    {
+      "id": "1e5e",
+      "taskName": "Ricar",
+      "streetAddress": "dafsdf",
+      "barangay": "sdfdsf",
+      "city": "asd",
+      "municipality": "sadfdasf",
+      "state": "",
+      "postalCode": "dasd",
+      "date": "2024-08-22",
+      "restrictedWeather": "sunny",
+      "environment": "sea",
+      "country": "asda",
+      "userId": "ef09"
+    },
+    {
+      "id": "acf7",
+      "taskName": "Hermogino",
+      "streetAddress": "asdas",
+      "barangay": "asd",
+      "city": "asdasd",
+      "municipality": "sdasd",
+      "state": "",
+      "postalCode": "asda",
+      "date": "2024-08-22",
+      "restrictedWeather": "rainy",
+      "environment": "mountain",
+      "country": "sdasd",
+      "userId": "ef09"
+    },
+    {
+      "id": "e659",
+      "taskName": "Bibi",
+      "streetAddress": "dfs",
+      "barangay": "sds",
+      "city": "adas",
+      "municipality": "dfsdf",
+      "state": "",
+      "postalCode": "adfsdf",
+      "date": "2024-08-29",
+      "restrictedWeather": "sunny",
+      "environment": "mountain",
+      "country": "Phsd",
+      "userId": "ef09"
+    }
+  ],
+  "activities": [
+    {
+      "id": "1",
+      "userId": 1,
+      "taskId": 1,
+      "activityType": "scheduled",
+      "timestamp": "2024-08-19T12:00:00Z"
+    }
+  ]
+}
